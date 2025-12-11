@@ -1,0 +1,10 @@
+Criação de um pequeno banco de dados para controlar clientes, pedidos e pagamentos de uma empresa.
+
+Tabela clientes
+Armazena informações básicas dos clientes.
+
+Tabela pedidos
+Armazena informações sobre os pedidos feitos pelos clientes.
+
+Tabela pagamentos
+Armazena o status dos pagamentos de cada pedido.
